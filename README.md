@@ -45,4 +45,4 @@ M Yo lo enfocaría más como algo a largo plazo, que aunque se presente en algun
 
 M En este punto, si lo vamos a tratar como un proyecto continuo, tenemos que ver también cómo se presenta a la comunidad, y lo que es más importante, cómo podría la comunidad aportar para ir completando el Shield con las aportaciones que se hagan. ¿Un GitHub nos podría servir, no? No entiendo mucho de Github, pero a lo mejor podríamos tener como una especie de branches, por cada técnica, y dentro, las correspondientes investigaciones. Es una idea. :)
 
-
+estamos alineados. El tema del att&ck al final es lo mismo, mostrar el ataque y la defensa. el tema es que quizás la defensa se vea menos siempre, pero entiendo que deberiamos tratar las dos, asi tenemos "cuello" a ir haciendo lo que mejor se nos da...vamos hablando.
