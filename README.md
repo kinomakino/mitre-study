@@ -43,4 +43,6 @@ K pensar en este proyecto como un estudio para unas conferencias, o pensar en un
 
 M Yo lo enfocaría más como algo a largo plazo, que aunque se presente en alguna conferencia como la del CCN, sea un proyecto estable, abierto a la comunidad, que podamos hacer crecer, hablar de ello en nuestros blogs y ver la opción de meter a nuestras empresas como soporte. Me parece buena idea.
 
+M En este punto, si lo vamos a tratar como un proyecto continuo, tenemos que ver también cómo se presenta a la comunidad, y lo que es más importante, cómo podría la comunidad aportar para ir completando el Shield con las aportaciones que se hagan. ¿Un GitHub nos podría servir, no? No entiendo mucho de Github, pero a lo mejor podríamos tener como una especie de branches, por cada técnica, y dentro, las correspondientes investigaciones. Es una idea. :)
+
 
