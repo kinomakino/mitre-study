@@ -25,6 +25,9 @@ estos son ejemplos de eventos relacionados con el ataque...
 TITULOS
 poner un titulo guapo...
 
+MITRE
+Misión Imposible tre, un framework defensivo con acento del sur xDDDDDDDDDD
+
 FORMATO DE PRESENTACIÓN.
 
 innovar y hacer algo chulo, no una cara y un ppt. pensando en virtual claro. montar algún rollo con algún proyector... como imitando un holograma...como que estamos juntos... no se, inventar algo de esto para las charlas online.
