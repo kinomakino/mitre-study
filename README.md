@@ -14,6 +14,8 @@ SHIELD: https://shield.mitre.org/techniques/DTE0003/MODELO
 K esto es el proyecto MITRE de ataque, pero para defensa, si te fijas, muestra la técnica defensiva, pero sin entrar en detalle. creo que deberíamos trabajar esa línea para identificar manuales, procesos, procedimientos concretos en los windows/linux sobre esa matriz.
 es decir, donde dice: haz hooking de la api no se que... llevarlo a tierra y explicar la técnica concreta...
 
+Guía Shield: https://shield.mitre.org/resources/downloads/Getting_Started_with_MITRE_Shield.pdf
+
 M OK, como te dije, soy bastante novato en este framework, déjame que le eche un vistazo y "vomito" ideas. :)
 
 BRAINSTORM: https://twitter.com/SBousseaden/status/1286753949459124224/photo/1
