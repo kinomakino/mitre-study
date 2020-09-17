@@ -1,0 +1,4 @@
+DUC0033
+A defender can detect the presence of an adversary by monitoring for processes that are created by commands and/or scripts they execute on a system.
+
+https://github.com/SwiftOnSecurity/sysmon-config
