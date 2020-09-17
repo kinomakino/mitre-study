@@ -1,0 +1,6 @@
+DPR0055
+
+Weaken security controls on a system to allow for leaking of credentials via network connection poisoning.
+
+RESPONDER https://intrinium.com/smb-relay-attack-tutorial/
+INVEIGHT https://www.adamcouch.co.uk/ntlmv2-relaying-in-windows-with-powershell-and-inveigh/
