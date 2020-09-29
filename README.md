@@ -4,6 +4,10 @@ fijar fechas-posibles congresos:
 CCN-CERT?
 Buena idea, las jornadas XIV de stic son a principios de noviembre, el CFP está abierto, la pregunta es si nos dará tiempo jeje
 https://www.ccn-cert.cni.es/xivjornadas-envio-cfp/unirse/47-cfp-xiv-jornadas-stic-ccn-cert.html
+
+https://sessionize.com/csa-latam-2020/
+
+
 la cuestión es usarlo como motivación, para tener hitos de tiempo.
 explciar que es el mitre, y darle la vertiente defensiva, explicando algunos procesos, es factible.
 
@@ -48,6 +52,8 @@ M Yo lo enfocaría más como algo a largo plazo, que aunque se presente en algun
 M En este punto, si lo vamos a tratar como un proyecto continuo, tenemos que ver también cómo se presenta a la comunidad, y lo que es más importante, cómo podría la comunidad aportar para ir completando el Shield con las aportaciones que se hagan. ¿Un GitHub nos podría servir, no? No entiendo mucho de Github, pero a lo mejor podríamos tener como una especie de branches, por cada técnica, y dentro, las correspondientes investigaciones. Es una idea. :)
 
 estamos alineados. El tema del att&ck al final es lo mismo, mostrar el ataque y la defensa. el tema es que quizás la defensa se vea menos siempre, pero entiendo que deberiamos tratar las dos, asi tenemos "cuello" a ir haciendo lo que mejor se nos da...vamos hablando.
+
+
 
 CHARLA:
 
