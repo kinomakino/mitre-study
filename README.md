@@ -8,19 +8,7 @@ https://www.ccn-cert.cni.es/xivjornadas-envio-cfp/unirse/47-cfp-xiv-jornadas-sti
 https://sessionize.com/csa-latam-2020/
 
 
-la cuestión es usarlo como motivación, para tener hitos de tiempo.
-explciar que es el mitre, y darle la vertiente defensiva, explicando algunos procesos, es factible.
 
-Me parece buen enfoque, además creo que la parte defensiva es la que siempre más "cojea". Mi idea inicial era justo centrarme en el att&ck, intentando relacionar técnicas y herramientas de seguridad ofensiva, pero veo más interesante la parte defensiva del shield. Más adelante podemos ver si le metemos mano al att&ck, ¿no?
-
-SHIELD: https://shield.mitre.org/techniques/DTE0003/MODELO 
-- Error 404 :(
-K esto es el proyecto MITRE de ataque, pero para defensa, si te fijas, muestra la técnica defensiva, pero sin entrar en detalle. creo que deberíamos trabajar esa línea para identificar manuales, procesos, procedimientos concretos en los windows/linux sobre esa matriz.
-es decir, donde dice: haz hooking de la api no se que... llevarlo a tierra y explicar la técnica concreta...
-
-Guía Shield: https://shield.mitre.org/resources/downloads/Getting_Started_with_MITRE_Shield.pdf
-
-M OK, como te dije, soy bastante novato en este framework, déjame que le eche un vistazo y "vomito" ideas. :)
 
 BRAINSTORM: https://twitter.com/SBousseaden/status/1286753949459124224/photo/1
 M No apuedo abrirlo
@@ -55,15 +43,33 @@ estamos alineados. El tema del att&ck al final es lo mismo, mostrar el ataque y 
 
 
 
+TITULOS
+poner un titulo guapo...
+
+
 CHARLA:
 
 1.- NECESIDAD DE UN FRAMEWORK.
+
 2.- INTRODUCCION A MITRE ATT@ACK
   EJEMPLOS DE VENDORS, BRAINSTORM, ETC...
-  ejercicio 2
+  ejercicio 2 
+  
 3.- INTRODUCCION A MITRE SHIELD
 ejemplo de mitigación
 
-4.- MOSTRAR EL PROYECTO
+4.- MOSTRAR EL PROYECTO de integración.
 probar la matriz
+
+*valorar mostrar un slide con proyectos relacionados
+
+
+https://attack.mitre.org/resources/training/cti/
+
+
+*listar todos los procedimientos de Shield y repartirnos un pool de trabajo y crear las remas en github
+*estudiar crear un github/pagina/correo/máquinas virtual
+
+Joaquín Molina o kinomakino es un apasionado de la tecnología en general y la seguridad desde mediados de los 90. Cuenta con numerosas certificaciones y pertenece a organizaciones de reconocido nombre como ENISA o la obtención del premio Microsoft MVP en los últimos años.
+Ponente en numerosas conferencias enfocadas siempre a redes, comunicaciones, hacking, auditorias, threat Intelligence y todos los aspectos relacionados con seguridad defensiva.
 
