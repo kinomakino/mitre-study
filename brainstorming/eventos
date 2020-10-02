@@ -19,8 +19,8 @@ Resumen charla:
 
 Disponer de un conocimiento profundo de las amenazas que pueden poner en riesgo a nuestra organización, es fundamental para poder defendernos, reducir la probabilidad de que se materialicen, y en caso de hacerlo, que el impacto sea el menor posible. Este conocimiento permitirá a la organización a identificar los mecanismos de seguridad e implantar una defensa activa.
 
-El objetivo de esta charla es introducir a los asistentes en los marcos de trabajo que MITRE ha creado, tanto desde la perspectiva del ATAQUE, con MITRE ATT&CK, como desde la perspectiva de DEFENSA, con MITRE SHIELD, enfatizando en la importancia del uso y referencia de estos marcos de trabajo.
+El objetivo de esta charla es introducir a los asistentes en los marcos de trabajo  MITRE, vinculando la perspectiva del ATAQUE, con MITRE ATT&CK, como desde la perspectiva de DEFENSA, con MITRE SHIELD, enfatizando en la importancia del uso y referencia de estos marcos de trabajo.
 
 Durante la charla, se mostrarán ejemplos prácticos de ataques, de cómo se llevan a cabo, y lo que es más importante, cómo mitigarlos. Los ejemplos estarán basados en ambos marcos de trabajo de MITRE.
 
-Finalmente, se presentará un nuevo proyecto en el que estamos trabajando para la integración de ambos marcos, que estará accesible a todo el público y en el que mostraremos ejemplos de cómo, a partir de una táctica y técnica del MITRE ATT&CK, podemos mapear posibles recursos de defensa (herramientas y actividades) con los procedimientos del MITRE SHIELD.
+Finalmente, se presentará un nuevo proyecto colaborativo para la integración de ambos marcos, que estará accesible a todo el público y en el que mostraremos ejemplos de cómo, a partir de una táctica y técnica del MITRE ATT&CK, podemos mapear posibles recursos de defensa (herramientas y actividades) con los procedimientos del MITRE SHIELD.
