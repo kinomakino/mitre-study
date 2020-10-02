@@ -2,18 +2,15 @@ Eventos
 
 Posibles eventos a los que presentar CFP
 
-https://www.ccn-cert.cni.es/xivjornadas-envio-cfp/unirse/47-cfp-xiv-jornadas-stic-ccn-cert.html
-CFP Deadline: 05/10/2020
-
-https://sessionize.com/csa-latam-2020/
-CFP Deadline: 10/11/2020
-
 Bío Kino:
 Joaquín Molina o kinomakino es un apasionado de la tecnología en general y la seguridad desde mediados de los 90. Cuenta con numerosas certificaciones y pertenece a organizaciones de reconocido nombre como ENISA o la obtención del premio Microsoft MVP en los últimos años. Ponente en numerosas conferencias enfocadas siempre a redes, comunicaciones, hacking, auditorias, threat Intelligence y todos los aspectos relacionados con seguridad defensiva.
 
 Bío Miguel:
 
 
+---------------------------------------------------------------------------------------
+https://www.ccn-cert.cni.es/xivjornadas-envio-cfp/unirse/47-cfp-xiv-jornadas-stic-ccn-cert.html
+CFP Deadline: 05/10/2020
 
 Resumen charla:
 
@@ -24,3 +21,12 @@ El objetivo de esta charla es introducir a los asistentes en los marcos de traba
 Durante la charla, se mostrarán ejemplos prácticos de ataques, de cómo se llevan a cabo, y lo que es más importante, cómo mitigarlos. Los ejemplos estarán basados en ambos marcos de trabajo de MITRE.
 
 Finalmente, se presentará un nuevo proyecto colaborativo para la integración de ambos marcos, que estará accesible a todo el público y en el que mostraremos ejemplos de cómo, a partir de una táctica y técnica del MITRE ATT&CK, podemos mapear posibles recursos de defensa (herramientas y actividades) con los procedimientos del MITRE SHIELD.
+
+CFP ENVIADO (02-10-2020)
+------------------------------------------------------------------------------------------
+https://sessionize.com/csa-latam-2020/
+CFP Deadline: 10/11/2020
+
+Ideas:
+- Mapear CCM de la CSA con TTPs de Att&ck y Shield
+- Mapear controles de NIST
